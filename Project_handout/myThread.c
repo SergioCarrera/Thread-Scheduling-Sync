@@ -5,8 +5,8 @@
 
 /* Enter the names of all team members here:
  * Member 1: Juan L. Francisco-Simon
- * Member 2:
- * Member 3:
+ * Member 2: Judith Kwassieu
+ * Member 3: Sergio Carrera
  */
 
 #include <stdlib.h>
