@@ -1,0 +1,8 @@
+b 16
+b 27
+run
+p $rip
+c
+p $rip
+c
+p $rip
